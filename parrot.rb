@@ -1,4 +1,4 @@
-Squawk= #{variable}
+answer= 
 def parrot
   puts "Squawk"
 end
