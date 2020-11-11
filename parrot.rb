@@ -1,8 +1,4 @@
-answer= (Squawk)
-answer=(Hoof Hoof)
-answer= (Mooo)
-
-def parrot
+def parrot(answer = "Squwak")
   puts "A parrot makes this sound #{answer}"
 end
 parrot
