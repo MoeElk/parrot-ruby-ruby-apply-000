@@ -1,5 +1,5 @@
 Squawk= #{variable}
 def parrot
-  puts "#{variable}"
+  puts "Squawk"
 end
 parrot
