@@ -1,5 +1,5 @@
-answer= 
+answer= ("Squawk")
 def parrot
-  puts "Squawk"
+  puts "#{answer}"
 end
 parrot
