@@ -1,4 +1,4 @@
-answer= (A parrot makes this sound "Squawk")
+answer= ("Squawk")
 def parrot
   puts "#{answer}"
 end
